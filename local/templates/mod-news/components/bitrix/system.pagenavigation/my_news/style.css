@@ -1,0 +1,26 @@
+.bottom-nav {
+    clear: both;
+    padding-top: 60px;
+}
+.nav-load {
+    text-align: center;
+}
+.nav-load a {
+    padding: 0 60px;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: #2980b9;
+    color: #fff;
+}
+.nav-load a:hover {
+    background-color: #00a652;
+    color: #fff;
+    cursor: pointer;
+}
+.nav-load span {
+    display: none;
+}

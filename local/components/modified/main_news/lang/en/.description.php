@@ -1,0 +1,3 @@
+<?
+$MESS["COMPONENT_MAIN_NEWS_NAME"] = "Новости";
+$MESS["COMPONENT_MAIN_NEWS_DESCRIPTION"] = "Новости";

@@ -1,0 +1,35 @@
+.flex_container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px auto;
+}
+
+.flex_container-child {
+    margin: 5px;
+    width: 20%;
+    padding: 10px 0;
+    padding-top: 0;
+    min-width: 300px;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(80,103,132,0.25);
+}
+
+.flex_container-child p {
+    padding: 0 10px;
+}
+
+.image_container img{
+    width: 100%;
+}
+
+.nav_container {
+    text-align: center;
+}
+
+a {
+    color: #346eb8;
+    text-decoration: none;
+}

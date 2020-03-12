@@ -1,0 +1,14 @@
+### общие исключения
+# IDE
+.idea/
+
+# cache
+.sass-cache/
+
+
+/upload/
+/bitrix/
+/yml-catalogs/*.yml
+/robots.txt
+/sitemap*.xml
+/local/vendor/
